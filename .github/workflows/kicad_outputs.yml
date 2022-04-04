@@ -4,6 +4,7 @@ on:
   push:
   workflow_dispatch:
 
+
 env:
   schema: "hw/sch_pcb/TTLLVDS01A.kicad_sch"
   board: "hw/sch_pcb/TTLLVDS01A.kicad_pcb"
