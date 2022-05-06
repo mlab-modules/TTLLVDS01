@@ -10,18 +10,18 @@
 <!--- Name:TTLLVDS01A: --->
 # TTLLVDS01A
 <!--- LongName --->
-## 
+## TTL to LVDS converter and vice versa
 <!--- ELongName ---> 
 
 <!--- Lead --->
-
+TTLLVDS is TTL to LVDS and LVDS to TTL converter. Module can be used to connect a simple TTL signal to LVDS input. By changing the components, it can acts as LVDS to TTL convertor. To covert differencial LVDS signal to TTL output. Each module converts two signals. 
 <!--- ELead ---> 
 
-![TTLLVDS01A](doc/img/TTLLVDS01A_QRcode.png) 
+![TTLLVDS01A](doc/gen/img/TTLLVDS01A-top.png) 
 
 
 <!--- Description --->
+The TTL signal is connected using a simple header. Differential LVDS signal is connected trought SATA connector and cable. Each sata connector contains two pairs of LVDS signals. 
 <!--- EDescription --->
 <!--- Content --->
 <!--- EContent --->
-<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2019-02-18)</sup></sub>
