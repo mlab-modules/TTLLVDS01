@@ -5,7 +5,7 @@ Board size: 40.13x19.81 mm (1.58x0.78 inches)
 - This is the size of the rectangle that contains the board
 - Thickness: 1.6 mm (63 mils)
 - Material: FR4
-- Finish: HAL
+- Finish: None
 - Layers: 2
 - Copper thickness: 35 µm
 
@@ -17,6 +17,19 @@ Silk screen: TOP / BOTTOM
 
 - Color: White
 
+
+Stackup:
+
+| Name                 | Type                 | Color    | Thickness | Material        | Epsilon_r | Loss tangent |
+|----------------------|----------------------|----------|-----------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |          |           |                 |           |              |
+| F.Mask               | Top Solder Mask      |          |        10 |                 |           |              |
+| F.Cu                 | copper               |          |        35 |                 |           |              |
+| dielectric 1         | core                 |          |      1510 | FR4             |       4.5 |         0.02 |
+| B.Cu                 | copper               |          |        35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   |          |        10 |                 |           |              |
+| B.Paste              | Bottom Solder Paste  |          |           |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |          |           |                 |           |              |
 
 # Important sizes
 

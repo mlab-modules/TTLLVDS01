@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TTLLVDS01A.kicad_sch</source>
-    <date>Wed Apr  6 13:16:23 2022</date>
+    <date>Fri May  6 10:56:36 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,7 +26,7 @@
   <components>
     <comp ref="C2">
       <value>100nF</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_id">C0805_100n</field>
       </fields>
@@ -142,7 +142,7 @@
     </comp>
     <comp ref="R1">
       <value>33R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
       </fields>
@@ -155,7 +155,7 @@
     </comp>
     <comp ref="R2">
       <value>33R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
       </fields>
@@ -168,7 +168,7 @@
     </comp>
     <comp ref="R3">
       <value>100</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
       </fields>
@@ -181,7 +181,7 @@
     </comp>
     <comp ref="R4">
       <value>100</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
         <field name="UST_ID">5c70984512875079b91f8970</field>
       </fields>
