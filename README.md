@@ -21,7 +21,9 @@ TTLLVDS is TTL to LVDS and LVDS to TTL converter. Module can be used to connect 
 
 
 <!--- Description --->
-The TTL signal is connected using a simple header. Differential LVDS signal is connected trought SATA connector and cable. Each sata connector contains two pairs of LVDS signals. 
+The TTL signal is connected using a simple header. Differential LVDS signal is connected trought SATA connector and cable. Each sata connector contains two pairs of LVDS signals.
+
+Module require a 3v3 powering. 
 <!--- EDescription --->
 <!--- Content --->
 <!--- EContent --->
