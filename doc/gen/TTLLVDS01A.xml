@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TTLLVDS01A.kicad_sch</source>
-    <date>Fri May  6 10:56:36 2022</date>
+    <date>Wed May 25 10:34:03 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,10 +28,12 @@
       <value>100nF</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
         <field name="UST_id">C0805_100n</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="UST_id" value="C0805_100n"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TTLLVDS01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -40,7 +42,11 @@
     <comp ref="D1">
       <value>BZV55C-3,6V</value>
       <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88b1</field>
+      </fields>
       <libsource lib="MLAB_D" part="D_ZENER" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88b1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TTLLVDS01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
